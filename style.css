@@ -1,0 +1,32 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: antiquewhite;
+    color: olive;
+}
+
+li {
+    display: inline;
+}
+
+#portrait {
+    width: 300px;
+}
+
+.projects_images {
+    width: 400px;
+}
+
+input {
+    color: black;
+    background-color:bisque;
+}
+
+.button:hover {
+    background-color: brown;
+    color: aliceblue;
+}
+
+textarea{
+    color: black;
+    background-color:bisque;
+}
